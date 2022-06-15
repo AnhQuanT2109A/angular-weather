@@ -1,0 +1,8 @@
+<?xml version = "1.0"?>
+<!DOCTYPE Test1 SYSTEM "D:\New folder (2)\untitled1\DTD_Exam\bb.dtd">
+<Test1>
+    <to>My Reader</to>
+    <from>ThiDK</from>
+    <subject>A Message to my readers</subject>
+    <message>Welcome to codelearn.vn</message>
+</Test1>
