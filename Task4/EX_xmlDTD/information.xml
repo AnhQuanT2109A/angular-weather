@@ -1,0 +1,9 @@
+<?xml version = "1.0"?>
+<!DOCTYPE information SYSTEM "account.dtd">
+<information>
+    <id>1</id>
+    <name>Anh Quan</name>
+    <phone>12233</phone>
+    <address>Ha Noi</address>
+</information>
+

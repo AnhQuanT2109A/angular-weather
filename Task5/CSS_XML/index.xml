@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="style.css" ?>
+<main>
+    <text-heading>Hiển thị tệp XML bằng CSS:</text-heading>
+    <header>
+        <h-heading>Let's goo</h-heading>
+        <text>
+            <text1>CSS có thể được sử dụng để hiển thị nội dung của tài liệu XML một cách rõ ràng và chính xác. </text1>
+            <text2>Các bước cơ bản trong việc xác định biểu định kiểu CSS cho XML:Để xác định quy tắc kiểu cho tài liệu XML, cần thực hiện những điều sau đây:</text2>
+            <text3>1. Xác định quy tắc kiểu cho các thành phần văn bản, chẳng hạn như cỡ chữ, màu sắc, font size, v.v.</text3>
+            <text4>2. Xác định từng phần tử dưới dạng một phần tử khối, nội tuyến hoặc danh sách, sử dụng thuộc tính hiển thị của CSS.</text4>
+            <text5>3. Xác định các tiêu đề và in đậm chúng.</text5>
+        </text>
+    </header>
+</main>

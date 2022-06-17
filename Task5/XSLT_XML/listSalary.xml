@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="salary.xsl"?>
+<class>
+    <employee id = "001" >
+        <name>Anh Quan</name>
+        <work>IT</work>
+        <month>4</month>
+        <numberOfWorkingDays>28</numberOfWorkingDays>
+        <DayOff>0</DayOff>
+        <salary>10000$</salary>
+        <Bonus>100$</Bonus>
+    </employee>
+    <employee id = "001" >
+        <name>Anh Quan</name>
+        <work>IT</work>
+        <month>4</month>
+        <numberOfWorkingDays>28</numberOfWorkingDays>
+        <DayOff>0</DayOff>
+        <salary>10000$</salary>
+        <Bonus>100$</Bonus>
+    </employee>
+    <employee id = "002" >
+        <name>Nguyen Van A</name>
+        <work>Tester</work>
+        <month>4</month>
+        <numberOfWorkingDays>22</numberOfWorkingDays>
+        <DayOff>6</DayOff>
+        <salary>6000$</salary>
+        <Bonus>0$</Bonus>
+    </employee>
+</class>

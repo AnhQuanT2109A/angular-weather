@@ -1,0 +1,32 @@
+main {
+    background-color: aqua;
+    width: 800px;
+}
+text-heading {
+    font-size: 36px;
+    text-transform: uppercase;
+    font-family: Arial;
+    margin-left: 50px;
+}
+header {
+    border: 1px red solid;
+    background-color: white;
+    height: 500px;
+    display: block;
+    margin: 16px 16px;
+}
+h-heading {
+    font-size: 28px;
+    display: block;
+    margin: 16px;
+    color: aqua;
+    text-transform: uppercase;
+    border-bottom: red 2px solid;
+}
+text1, text2, text3, text4, text5 {
+    display: block;
+    margin-left: 10px;
+    text-align: justify;
+    width: 640px;
+    padding: 4px;
+}

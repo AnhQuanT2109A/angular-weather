@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<codelean xmlns="https://www.codelean.vn"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="https://www.codelean.vn account.xsd">
+    <id>12</id>
+    <name>Anh Quan</name>
+    <phone>099293</phone>
+    <address>Ha Noi</address>
+</codelean>
